@@ -1,24 +1,46 @@
-Project 1: Algorithmic Problem-Solving Strategies
+Project 1: 
+Algorithmic Problem-Solving Strategies
+
 NOTE: All papers must be in a form which can be checked by blackboard, and appear as a submission outside of a zip file.
+
 Introduction
+
 Give the big picture of the problem.  
+
 How do algorithmic problem solving strategies differ from algorithms
+
 How does the sorting of a collection of numbers relate to the algorithmic problem solving strategies
+
 Which three will be investigated, by interfacing with the ABC of Problem.
+
 Give structure of the report
+
 Background
+
 Maybe mention SOLID and the required methods to use the ABC (Abstract Base Class) and the class methods Divide and Conquer, Greedy and Las Vegas
+
 Design
 How is the code structured? (UML) 
+
 Show the Is_A hierarchy 
+
 Experimental Design and Analysis
 Discuss how you measured performance, what type of plots do you use
+
 Always discuss the figure in the text
+
 Provide a plot of the results, with a function (n log n) times a constant bounding the measured runtimes for the sorts from below and above.
+
 A log linear plot of the results would take the log(n log n) which would result in log(n) + log(log(n)), a linear-linear plot would be almost a straight line, with a slope increasing by log(n) (slight curve up) while a linear-log plot would highlight the upward curve (the increase in slope).  All are valid, just make sure to note which one you are using and why.
+
 Conclusion
+
 Summarize the introduction (not including the structure) and state major result.
+
 References
+
 Order the reference in the order of appearance 
+
 NIST-DADS, Algorithm text, other websites, (link + date of download)
+
 Prompt + AI engine used, and any references the AI provides (Date)
